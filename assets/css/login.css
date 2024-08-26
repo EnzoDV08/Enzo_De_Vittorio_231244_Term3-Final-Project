@@ -1,0 +1,117 @@
+body {
+    font-family: 'Roboto', sans-serif;
+   background-color: #ffffff !important;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+.container {
+    background: #fff;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #0f0f0f;
+    font-weight: 600;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"],
+select {
+    padding: 14px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: border 0.3s ease;
+}
+
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="text"]:focus,
+select:focus {
+    border: 1px solid #1f4037;
+    outline: none;
+}
+
+input[type="submit"] {
+    background-color: #171a19;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0b0c0c;
+}
+
+.error-message {
+    color: red;
+    margin-bottom: 15px;
+    font-size: 14px;
+    display: none;
+}
+
+a {
+    color: #232726;
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 10px;
+    display: inline-block;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #131616;
+    text-decoration: underline;
+}
+
+select {
+    appearance: none;
+    background: #fff url('../assets/images/down-arrow.png') no-repeat right 10px center;
+    background-size: 14px;
+}
+
+select:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(31, 64, 55, 0.5);
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.container {
+    animation: slideIn 0.6s ease-out;
+}
