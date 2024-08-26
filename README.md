@@ -131,6 +131,24 @@ This project was built using the following technologies:
 - **Properties are reviewed by Users** → `(Property.PropertyID → Reviews.PropertyID)` [1 to Many]
 - **Reviews can be nested (Replies)** → `(Reviews.ReviewID → Reviews.ParentID)` [1 to Many]
 
+# 🏠 Real Estate Website Walkthrough
+
+**🎥 Video Walkthrough:** [Watch the Video](https://drive.google.com/file/d/1ojtTXV3Wu4dSTJTyWDUN6FHlJasC2t6U/view?usp=sharing)
+
+---
+
+## 📝 Overview
+
+This video provides a **comprehensive walkthrough** of the real estate website project. The website is designed to facilitate the buying, selling, and renting of properties, with functionalities tailored for both general users and administrators. The video covers the following key features:
+
+- **🌐 Homepage and Navigation:** An overview of the clean and intuitive user interface that ensures ease of use for all visitors.
+- **👤 User Registration and Login:** Demonstration of the user sign-up process and how existing users can log in to their accounts.
+- **🛠️ Profile Management:** How users can update their personal information in their profiles.
+- **🏡 Property Listings:** A showcase of how properties are listed and how users can view detailed information about each listing.
+- **📄 Property Details Page:** In-depth look at the property details page, including image carousels and property specifics.
+- **💬 Comments and Interaction:** Explanation of the interactive comment section where users can engage with each other and agents.
+- **🔧 Admin Dashboard:** Demonstration of the admin dashboard, including the process of approving or denying property listings.
+
 ---
 ## 🛠️ Technologies Used
 
