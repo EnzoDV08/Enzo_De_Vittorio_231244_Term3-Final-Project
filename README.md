@@ -9,6 +9,9 @@ This project is a web-based real estate platform that allows users to **browse**
 - **Users** can register, log in, browse properties, and manage their profiles.
 - **Administrators** can manage property listings, user accounts, and approve or reject properties.
 
+Mockup of Website
+![mockup real estate](https://github.com/user-attachments/assets/f4ed7687-4060-451f-ba5a-68f139ecaabb)
+
 ## 📁 Folder Structure
 
 The project is organized into the following main directories:
