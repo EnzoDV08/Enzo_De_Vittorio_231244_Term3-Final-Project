@@ -63,6 +63,7 @@ The project is organized into the following main directories:
   - Display properties with images, details, and pricing.
   - Mark properties as sold or available.
   - Edit and remove property listings.
+![mockup real estate](https://github.com/user-attachments/assets/f68c881c-ffdf-47cf-88fd-e053170637ab)
 
 ## Installation
 
