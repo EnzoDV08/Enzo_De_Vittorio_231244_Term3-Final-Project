@@ -132,5 +132,15 @@ This project was built using the following technologies:
 - **Reviews can be nested (Replies)** → `(Reviews.ReviewID → Reviews.ParentID)` [1 to Many]
 
 ---
+## 🛠️ Technologies Used
 
+This project is built using the following technologies:
+
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![XAMPP](https://img.shields.io/badge/Server-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=FB7A24)
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![phpMyAdmin](https://img.shields.io/badge/Tool-phpMyAdmin-informational?style=flat&logo=phpmyadmin&logoColor=white&color=6C78AF)
 
