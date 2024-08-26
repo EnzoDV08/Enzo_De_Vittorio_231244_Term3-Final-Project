@@ -133,13 +133,4 @@ This project was built using the following technologies:
 
 ---
 
-## 🚀 Installation
 
-### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/real-estate-website.git
-
-📌 Additional Information
-Responsive Design: The platform is fully responsive, providing an optimal experience across devices.
-Security: Basic security features like input validation, password hashing, and session management are implemented.
-Scalability: The project structure allows for easy expansion with new features or pages.
